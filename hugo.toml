@@ -2,3 +2,4 @@
   [[module.mounts]]
     source = "node_modules"
     target = "assets"
+ignoreErrors = ["error-remote-getjson"]
